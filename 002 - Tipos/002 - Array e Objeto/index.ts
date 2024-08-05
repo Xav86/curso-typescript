@@ -1,3 +1,4 @@
+// tuplas
 let array1: [string, string, number, boolean] = ['Gustavo', 'teste', 2, true];
 
 let array2: Array<string | number | boolean> = [true, 'Gustavo', 'teste', 'teste2', 234];
